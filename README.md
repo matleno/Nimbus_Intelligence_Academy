@@ -1,2 +1,3 @@
-# Nimbus_Intelligence_Academy
+# Nimbus Intelligence Academy
  
+ Sql and Python test
